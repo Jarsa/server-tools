@@ -6,7 +6,6 @@ email_validator
 pyotp
 pysftp
 fdb
-sqlalchemy
 raven
 checksumdir
 python-stdnum
